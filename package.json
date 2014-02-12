@@ -1,0 +1,32 @@
+{
+  "name": "sails-github",
+  "description": "a github adapter for Waterline and Sails.js",
+  "version": "0.10.0",
+  "author": "Zolmeister <zolikahan@gmail.com",
+  "contributors": [
+    {
+      "name": "Cody Stoltman",
+      "email": "particlebanana@gmail.com"
+    }
+  ],
+  "url": "http://github.com/balderdashy/sails-github",
+  "keywords": [
+    "github",
+    "orm",
+    "waterline",
+    "sails"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/balderdashy/sails-github.git"
+  },
+  "dependencies": {
+    "request": "~2.33.0"
+  },
+  "main": "lib/adapter",
+  "directories": {
+    "lib": "./lib"
+  },
+  "license": "MIT",
+  "bugs": "https://github.com/balderdashy/sails-github/issues"
+}
